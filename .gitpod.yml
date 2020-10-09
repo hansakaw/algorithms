@@ -1,6 +1,6 @@
 tasks:
   - init: 'echo "TODO: Replace with init/build command"'
-    command: cd max-product; mvn install
+    command: mvn install
 
 github:
   prebuilds:
