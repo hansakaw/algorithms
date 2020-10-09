@@ -1,6 +1,6 @@
 /**
  * PROJECT NAME
- *    find-max-product
+ *    max-product
  *
  * FILE NAME
  *    Solution.java
