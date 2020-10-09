@@ -1,7 +1,7 @@
 
 /**
  * PROJECT NAME
- *    find-max-product
+ *    max-product
  *
  * FILE NAME
  *    Tests.java
@@ -30,6 +30,8 @@ import static org.junit.Assert.assertEquals;
 
 import org.junit.Before;
 import org.junit.Test;
+import org.junit.runner.RunWith;
+import org.junit.runners.JUnit4;
 
 /**
  * <p>
@@ -40,6 +42,7 @@ import org.junit.Test;
  *
  * @version $Id$
  */
+@RunWith(JUnit4.class)
 public class Tests {
 
 	private Solution solution;
